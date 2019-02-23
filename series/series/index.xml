@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Engin</title>
+    <link>https://kayaen.github.io/series/series/</link>
+    <description>Recent content in Series on Engin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Feb 2019 18:22:29 +0900</lastBuildDate>
+    
+	<atom:link href="https://kayaen.github.io/series/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HelloWorld</title>
+      <link>https://kayaen.github.io/blog/2019-02/helloworld/</link>
+      <pubDate>Sat, 23 Feb 2019 18:22:29 +0900</pubDate>
+      
+      <guid>https://kayaen.github.io/blog/2019-02/helloworld/</guid>
+      <description>&lt;p&gt;Merhaba,&lt;/p&gt;
+
+&lt;h2 id=&#34;bolum-1&#34;&gt;Bolum 1&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/kayaen&#34;&gt;Bu yazıda&lt;/a&gt; hem bir &lt;code&gt;Merhaba Dünya&lt;/code&gt; deyip hem yeni keşfetmeye başladığım &lt;img src=&#34;https://kayaen.github.io/&#34; alt=&#34;Hugo&#34; /&gt;&amp;lsquo;da nasıl içerik oluşturabileceğimi deneyeceğim.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
