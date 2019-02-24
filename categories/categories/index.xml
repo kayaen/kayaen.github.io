@@ -6,10 +6,23 @@
     <description>Recent content in Categories on Engin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Feb 2019 18:22:29 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 23 Feb 2019 21:07:15 +0900</lastBuildDate>
     
 	<atom:link href="https://kayaen.github.io/categories/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bu Sitenin Kurulumu</title>
+      <link>https://kayaen.github.io/blog/2019-02/bu-sitenin-kurulumu/</link>
+      <pubDate>Sat, 23 Feb 2019 21:07:15 +0900</pubDate>
+      
+      <guid>https://kayaen.github.io/blog/2019-02/bu-sitenin-kurulumu/</guid>
+      <description>Giriş Merhaba,
+Bu yazıda Hugo ile websitesi kurup bunu Github ile yayına alma tecrübemi paylaşacağım. Siteyi kurarken yer yer takıldığım noktalarda bulduğum çözümleri de içeren sıfırdan bir kurulum rehberi olacağını düşünüyorum. Kendim bu siteyi oluştururken yaptığım araştırmalarda pek Türkçe içeriğe rastlamadım, bu konuda da yardımcı bir kaynak olabileceğini umuyorum.
+Önbilgi olarak söyleyeyim, biraz da olsa HTML, CSS, JavaScript ve git ile deneyimim olmuştu fakat ben de bunlarda uzman olmadığım için bu kısımları da adım adım aktarabileceğimi düşünüyorum. Öyleyse başlayalım&amp;hellip;
+Neden Hugo Sizi bilmiyorum ama bana zaman zaman &amp;ldquo;21. yy.&amp;lsquo;dayız ve internette kesinlikle var olmam lazım&amp;rdquo; hissi geliyor. Bu hissin verdiği gazla daha önce wordpress ve blogspot ile blog açmayı, üniversetenin sağladığı kişisel alanıma websitemi kurmayı ve bunu geliştirmeyi bir kaç kez denedim. Fakat hepsi bir kaç yazı veya bir kaç ay sonra son buldu. Geri dönüp baktığımda hepsinin inanılmaz kötü tasarımlara sahip olduğunu farkettim (belki de bu yüzden bırakmıştım). Bu kez farklı platformların ve şablonların da çıkmasıyla daha kaliteli bir yapı ile yeniden denemek istedim.
+Hugo, Go dili ile yazılmış bir statik site oluşturucu framework olarak geçiyor. Ben de go dilini hiç bilmediğim için Hugo&amp;rsquo;dan önce daha rahat anlayıp müdahale edebileceğimi düşündüğüm Bootstrap ve html5up ile farklı alternatifler denedim fakat Hugo&amp;rsquo;daki harika temaları ve kolay post oluşturma özelliklerini görünce bu işi çözmeye karar verdim.</description>
+    </item>
     
     <item>
       <title>HelloWorld</title>
@@ -21,7 +34,7 @@
 
 &lt;h2 id=&#34;bolum-1&#34;&gt;Bolum 1&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/kayaen&#34;&gt;Bu yazıda&lt;/a&gt; hem bir &lt;code&gt;Merhaba Dünya&lt;/code&gt; deyip hem yeni keşfetmeye başladığım &lt;img src=&#34;https://kayaen.github.io/&#34; alt=&#34;Hugo&#34; /&gt;&amp;lsquo;da nasıl içerik oluşturabileceğimi deneyeceğim.&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://kayaen.github.io/blog/2019-02/helloworld/&#34;&gt;Bu yazıda&lt;/a&gt; hem bir &lt;code&gt;Merhaba Dünya&lt;/code&gt; deyip hem yeni keşfetmeye başladığım &lt;img src=&#34;https://kayaen.github.io/&#34; alt=&#34;Hugo&#34; /&gt;&amp;lsquo;da nasıl içerik oluşturabileceğimi deneyeceğim.&lt;/p&gt;</description>
     </item>
     
   </channel>

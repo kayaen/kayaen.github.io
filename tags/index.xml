@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Engin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Feb 2019 18:22:29 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 23 Feb 2019 21:07:15 +0900</lastBuildDate>
     
 	<atom:link href="https://kayaen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>Blog</title>
       <link>https://kayaen.github.io/tags/blog/</link>
-      <pubDate>Sat, 23 Feb 2019 18:22:29 +0900</pubDate>
+      <pubDate>Sat, 23 Feb 2019 21:07:15 +0900</pubDate>
       
       <guid>https://kayaen.github.io/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Hugo</title>
+      <link>https://kayaen.github.io/tags/hugo/</link>
+      <pubDate>Sat, 23 Feb 2019 21:07:15 +0900</pubDate>
+      
+      <guid>https://kayaen.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Test</title>
       <link>https://kayaen.github.io/tags/test/</link>
-      <pubDate>Sat, 23 Feb 2019 18:22:29 +0900</pubDate>
+      <pubDate>Sat, 23 Feb 2019 21:07:15 +0900</pubDate>
       
       <guid>https://kayaen.github.io/tags/test/</guid>
       <description></description>
