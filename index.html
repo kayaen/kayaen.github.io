@@ -249,9 +249,17 @@
         <p class="mb-0 p" style="font-size: 1.250rem; font-weight: 200;">
             Hi! I&#39;m Engin Kaya.
         </p>
-        
+
+        <audio id="myAudio">
+          <source src="about/engin.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+        <script>
+          var x = document.getElementById("myAudio"); 	
+          function playAudio() { x.play(); }  
+        </script>        
         <p class="mb-0 p" style="font-size: 1.250rem; font-weight: 200;">
-            People call me Engin.
+            People call me Engin. <i class="icon alt fa-volume-up" onclick="playAudio()"></i>
         </p>
         
         <p class="mb-0 p" style="font-size: 1.250rem; font-weight: 200;">
