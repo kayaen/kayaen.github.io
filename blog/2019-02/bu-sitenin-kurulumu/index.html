@@ -125,6 +125,11 @@ Hugo, Go dili ile yazılmış bir statik site oluşturucu framework olarak geçi
           
              
             <li class="nav-item ">
+              <a class="nav-link" href="https://kayaen.github.io/moment/" >Experience  </a>
+            </li>
+          
+             
+            <li class="nav-item ">
               <a class="nav-link" href="https://kayaen.github.io/about/" >About  </a>
             </li>
           
@@ -396,9 +401,9 @@ Hugo, Go dili ile yazılmış bir statik site oluşturucu framework olarak geçi
 
 <h2 id="tema-seçimi-ve-kurulumu">Tema Seçimi ve Kurulumu</h2>
 
-<p>Hugo altyapımızı kurduğumuza göre şimdi <a href="https://themes.gohugo.io/">şu link</a>ten güzel bir tema seçip yükleyelim. Ben denemek için <a href="https://themes.gohugo.io/hugo-goa/">Goa</a> isimli temayı seçiyorum ve bunu yükleyeceğim. Eğer bilgisayarınızda git kurulu değilse kurmanın için tam zamanı. <a href="https://git-scm.com/downloads">Şu adres</a>&lsquo;ten indirip, next next şeklinde kurulumu tamamlayabilirsiniz. Sonrasında komut satırını açıyoruz ve <code>cd C:\Hugo\Sites\newSite\themes</code> yazarak themes klasörüne gidiyoruz. Buraya seçtiğimiz temayı klonlayacağız. Bunun için komut satırına <code>git clone &lt;seçilen temanın linki&gt;</code> yazıyoruz (benim için <seçilen temanın linki> = <a href="https://github.com/shenoybr/hugo-goa">https://github.com/shenoybr/hugo-goa</a>). İşlem bitince <code>C:\Hugo\Sites\newSite\themes\hugo-goa\exampleSite</code> altındaki <strong>config.toml</strong> adlı dosyayı <code>C:\Hugo\Sites\newSite</code> dosyasının içindeki config.toml ile değiştiriyoruz (İsterseniz <em>content</em>, <em>data</em>, <em>layouts</em> ve <em>static</em> kalsörlerini komple kopyalayarak aynı siteyi oluşturabilirsiniz -ben öyle yaptım ama zorunlu değil-). Temel olarak <strong>config.toml</strong> içerisinde konfigürasyon dosyalarını tutar ve bunları da kendi isteğinize göre güncelleyebilirsiniz.</p>
+<p>Hugo altyapımızı kurduğumuza göre şimdi <a href="https://themes.gohugo.io/">şu link</a>ten güzel bir tema seçip yükleyelim. Ben denemek için <a href="https://themes.gohugo.io/hugo-goa/">Goa</a> isimli temayı seçiyorum ve bunu yükleyeceğim. Eğer bilgisayarınızda git kurulu değilse kurmanın için tam zamanı. <a href="https://git-scm.com/downloads">Şu adres</a>&lsquo;ten indirip, next next şeklinde kurulumu tamamlayabilirsiniz. Sonrasında komut satırını açıyoruz ve <code>cd C:\Hugo\Sites\newSite\themes</code> yazarak themes klasörüne gidiyoruz. Buraya seçtiğimiz temayı klonlayacağız. Bunun için komut satırına <code>git clone &lt;seçilen temanın linki&gt;.git</code> yazıyoruz (benim için <seçilen temanın linki> = <a href="https://github.com/shenoybr/hugo-goa">https://github.com/shenoybr/hugo-goa</a>). İşlem bitince <code>C:\Hugo\Sites\newSite\themes\hugo-goa\exampleSite</code> altındaki <strong>config.toml</strong> adlı dosyayı <code>C:\Hugo\Sites\newSite</code> dosyasının içindeki config.toml ile değiştiriyoruz (İsterseniz <em>content</em>, <em>data</em>, <em>layouts</em> ve <em>static</em> kalsörlerini komple kopyalayarak aynı siteyi oluşturabilirsiniz -ben ilk başta öyle yaptım ama zorunlu değil-). Temel olarak <strong>config.toml</strong> içerisinde konfigürasyon dosyalarını tutar ve bunları da kendi isteğinize göre güncelleyebilirsiniz.</p>
 
-<p>Şimdi artık temel olarak sitemizi de oluşturup hazır etmiş bulunmaktayız. Bunu test etmek için komut satırına <code>cd C:\Hugo\Sites\newSite</code> yazarak sitemizin bulunduğu ana klasöre dönelim ve burada <code>hugo server</code> komutu ile yerel sunucumuzu çalıştıralım. Artık tarayıcınızdan <a href="http://localhost:1313/">http://localhost:1313/</a> adresine giderek websitenizin çalıştığını görebilirsiniz. Eğer her şey yolundaysa <code>Ctrl + C</code> ile sunucuyu kapatabilirsiniz. Sırada oluşturduğumuz siteyi github&rsquo;a yükleyip uzak sunucuda barındırmak var.</p>
+<p>Şimdi artık temel olarak sitemizi de oluşturup hazır etmiş bulunmaktayız. Bunu test etmek için komut satırına <code>cd C:\Hugo\Sites\newSite</code> yazarak sitemizin bulunduğu ana klasöre dönelim ve burada <code>hugo server</code> komutu ile yerel sunucumuzu çalıştıralım. Artık tarayıcınızdan <a href="http://localhost:1313/">http://localhost:1313/</a> adresine giderek websitenizin çalıştığını görebilirsiniz. Eğer her şey yolundaysa komut satırında <code>Ctrl + C</code> ile sunucuyu kapatabilirsiniz. Sırada oluşturduğumuz siteyi github&rsquo;a yükleyip uzak sunucuda barındırmak var.</p>
 
 <h2 id="sitenin-github-a-yüklenmesi">Sitenin Github&rsquo;a yüklenmesi</h2>
 
@@ -438,13 +443,13 @@ Hugo, Go dili ile yazılmış bir statik site oluşturucu framework olarak geçi
 <div class="flex-center w-100" style="text-align: center;"><img name="Finder-view" src="https://kayaen.github.io/images/blog/2019-02/buildHtml.png" /></div>
 
 
-<p>Ve bu komut ile Hugo sitemizin bulunduğu ana klasörün içerinde &lt; kullanıcıAdınız &gt;.github.io isimli içerisinde HTML ve CSS&rsquo;lerin bulunduğu bir klasör oluşturdu. Github artık bunları yorumlayıp sitemizi oluşturabilir. Şimdi son olarak oluşturulan bu dosyaları da github üzerinde oluşturduğumu &lt; kullanıcıAdınız &gt;.github.io isimli repoya aktarmamız gerekiyor. Bu dosya yolunu gösterme işlemini yukarıda yaptık ama kontrol etmekte fayda var, bunun için komut satırından  klasörüne geçelim ve <code>git remote -v</code> komutun yazalım.</p>
+<p>Ve bu komut ile Hugo sitemizin bulunduğu ana klasörün içerinde &lt; kullanıcıAdınız &gt;.github.io isimli içerisinde HTML ve CSS&rsquo;lerin bulunduğu bir klasör oluşturdu. Github artık bunları yorumlayıp sitemizi oluşturabilir. Şimdi son olarak oluşturulan bu dosyaları da github üzerinde yarattığımız &lt; kullanıcıAdınız &gt;.github.io isimli repoya aktarmamız gerekiyor. Bu dosya yolunu gösterme işlemini yukarıda yaptık ama kontrol etmekte fayda var, bunun için komut satırındancd <code>&lt; kullanıcıAdınız &gt;.github.io</code> ile <em>&lt; kullanıcıAdınız &gt;.github.io</em> klasörüne klasörüne geçelim ve <code>git remote -v</code> komutun yazalım.</p>
 
 <pre><code>&gt; origin git@github.com:&lt; kullanıcıAdınız &gt;/&lt; kullanıcıAdınız &gt;.github.io.git (fetch)
 &gt; origin git@github.com:&lt; kullanıcıAdınız &gt;/&lt; kullanıcıAdınız &gt;.github.io.git (push)
 </code></pre>
 
-<p>şunların cevap olarak geldiğinden emin olduktan sonra artık dosyalarımızı yollayabiliriz. Aşağıdaki komutları girelim ve işlem tamamlansın</p>
+<p>Yukarıdakilerin cevap olarak geldiğinden emin olduktan sonra artık dosyalarımızı yollayabiliriz. Aşağıdaki komutları girelim ve işlem tamamlansın</p>
 
 <blockquote>
 <ul>
