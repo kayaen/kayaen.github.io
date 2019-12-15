@@ -6,14 +6,24 @@
     <description>Recent content in Categories on Engin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2019 15:34:13 +0900</lastBuildDate>
     
 	<atom:link href="https://kayaen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Capoeira</title>
+      <link>https://kayaen.github.io/categories/capoeira/</link>
+      <pubDate>Sun, 25 Aug 2019 15:34:13 +0900</pubDate>
+      
+      <guid>https://kayaen.github.io/categories/capoeira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Categories</title>
       <link>https://kayaen.github.io/categories/categories/</link>
-      <pubDate>Sat, 23 Feb 2019 21:07:15 +0900</pubDate>
+      <pubDate>Sun, 10 Mar 2019 23:43:05 +0900</pubDate>
       
       <guid>https://kayaen.github.io/categories/categories/</guid>
       <description></description>

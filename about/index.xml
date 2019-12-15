@@ -11,5 +11,39 @@
 	<atom:link href="https://kayaen.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Now</title>
+      <link>https://kayaen.github.io/about/menow/</link>
+      <pubDate>Sat, 24 Aug 2019 20:29:37 -0700</pubDate>
+      
+      <guid>https://kayaen.github.io/about/menow/</guid>
+      <description>I get inspiration from this website to make Now page https://nownownow.com/about
+Currently I&amp;rsquo;m an intern at Korea Institute of Science and Technology.
+I&amp;rsquo;m sharing lessons about Startup School on medium</description>
+    </item>
+    
+    <item>
+      <title>Me in 10 minutes</title>
+      <link>https://kayaen.github.io/about/me10min/</link>
+      <pubDate>Sat, 19 Sep 2015 20:29:37 -0700</pubDate>
+      
+      <guid>https://kayaen.github.io/about/me10min/</guid>
+      <description>I was born and grew up in one of the best city in Turkey: İzmir. I wish to move there again one day in the future.
+I graduated with a Bachelors (2015) and a Masters (2018) in Control and Automation Engineering from Istanbul Technical University.
+I have various experiences. I started working while I was studying at university. Check my linkedin profile.
+I enjoy playing and watching soccer (fan of Beşiktaş), camping, hitchiking, dancing (Forro) and reading about tech.
+I&amp;rsquo;m a capoeirista. It is more than a hobby for me. If you don&amp;rsquo;t know what is it, check my blog post.
+I like to meet new people, travel new places and tasting foods-drinks. I always prefer new experiences.</description>
+    </item>
+    
+    <item>
+      <title>Me in 10 seconds</title>
+      <link>https://kayaen.github.io/about/me10sec/</link>
+      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
+      
+      <guid>https://kayaen.github.io/about/me10sec/</guid>
+      <description>I&amp;rsquo;m Engineer</description>
+    </item>
+    
   </channel>
 </rss>

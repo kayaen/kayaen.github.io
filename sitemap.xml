@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kayaen.github.io/blog/2019-08/maria-subiu-no-coqueiro/</loc>
+    <lastmod>2019-08-25T15:34:13+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kayaen.github.io/about/menow/</loc>
+    <lastmod>2019-08-24T20:29:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kayaen.github.io/blog/2019-03/t%C3%BCketilenler-1/</loc>
+    <lastmod>2019-03-10T23:43:05+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kayaen.github.io/blog/2019-02/bu-sitenin-kurulumu/</loc>
     <lastmod>2019-02-23T21:07:15+09:00</lastmod>
   </url>
@@ -23,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://kayaen.github.io/about/me10min/</loc>
+    <lastmod>2015-09-19T20:29:37-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kayaen.github.io/moment/</loc>
     <lastmod>2015-08-19T20:29:37-07:00</lastmod>
   </url>
@@ -33,25 +53,49 @@
   </url>
   
   <url>
+    <loc>https://kayaen.github.io/about/me10sec/</loc>
+    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kayaen.github.io/tags/blog/</loc>
     <lastmod>2019-02-23T21:07:15+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://kayaen.github.io/categories/capoeira/</loc>
+    <lastmod>2019-08-25T15:34:13+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kayaen.github.io/series/capoeira-songs/</loc>
+    <lastmod>2019-08-25T15:34:13+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kayaen.github.io/categories/</loc>
+    <lastmod>2019-08-25T15:34:13+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kayaen.github.io/categories/categories/</loc>
-    <lastmod>2019-02-23T21:07:15+09:00</lastmod>
+    <lastmod>2019-03-10T23:43:05+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kayaen.github.io/</loc>
-    <lastmod>2019-02-23T21:07:15+09:00</lastmod>
+    <lastmod>2019-08-25T15:34:13+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kayaen.github.io/tags/haftal%C4%B1k/</loc>
+    <lastmod>2019-03-10T23:43:05+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -63,6 +107,7 @@
   
   <url>
     <loc>https://kayaen.github.io/series/</loc>
+    <lastmod>2019-08-25T15:34:13+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -81,6 +126,18 @@
   <url>
     <loc>https://kayaen.github.io/tags/test/</loc>
     <lastmod>2019-02-23T21:07:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kayaen.github.io/tags/t%C3%BCketilenler/</loc>
+    <lastmod>2019-03-10T23:43:05+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kayaen.github.io/series/t%C3%BCketilenler/</loc>
+    <lastmod>2019-03-10T23:43:05+09:00</lastmod>
     <priority>0</priority>
   </url>
   
