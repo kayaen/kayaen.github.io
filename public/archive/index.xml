@@ -2,25 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on Engin Kaya</title>
-    <link>http://localhost:1313/archive/</link>
+    <link>https://kayaen.github.io/archive/</link>
     <description>Recent content in Archives on Engin Kaya</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024, Engin Kaya</copyright>
-    <atom:link href="http://localhost:1313/archive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kayaen.github.io/archive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/archive/bu-sitenin-kurulumu/</link>
+      <link>https://kayaen.github.io/archive/bu-sitenin-kurulumu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/archive/bu-sitenin-kurulumu/</guid>
+      <guid>https://kayaen.github.io/archive/bu-sitenin-kurulumu/</guid>
       <description>&lt;!DOCTYPE html&gt; Bu Sitenin Kurulumu | Engin Engin Home Blog Experience About Engin categories series Bu Sitenin Kurulumu Feb 23, 2019 5 minutes read Giriş Merhaba,&#xA;Bu yazıda Hugo ile websitesi kurup bunu Github ile yayına alma tecrübemi paylaşacağım. Siteyi kurarken yer yer takıldığım noktalarda bulduğum çözümleri de içeren sıfırdan bir kurulum rehberi olacağını düşünüyorum. Kendim bu siteyi oluştururken yaptığım araştırmalarda pek Türkçe içeriğe rastlamadım, bu konuda da yardımcı bir kaynak olabileceğini umuyorum.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/archive/me10min/</link>
+      <link>https://kayaen.github.io/archive/me10min/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/archive/me10min/</guid>
+      <guid>https://kayaen.github.io/archive/me10min/</guid>
       <description>&lt;!DOCTYPE html&gt; Me in 10 minutes | Engin Engin Home Blog Experience About Engin Me in 10 minutes Sep 19, 2015 One minute read I was born and grew up in one of the best city in Turkey: İzmir. I wish to move there again one day in the future.&#xA;I graduated with a Bachelors (2015) and a Masters (2018) in Control and Automation Engineering from Istanbul Technical University.&#xA;I have various experiences.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://kayaen.github.io/archive/me10sec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kayaen.github.io/archive/me10sec/</guid>
+      <description>&lt;!DOCTYPE html&gt; Me in 10 seconds | Engin Engin Home Blog Experience About Engin Me in 10 seconds Aug 19, 2015 One minute read I&amp;rsquo;m Engineer&#xA;Next Me in 10 minutes 2019 &amp;copy; | Theme AllinOne by Orianna </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://kayaen.github.io/archive/menow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kayaen.github.io/archive/menow/</guid>
+      <description>&lt;!DOCTYPE html&gt; Now | Engin Engin Home Blog Experience About Engin Now Aug 24, 2019 One minute read I get inspiration from this website to make Now page https://nownownow.com/about&#xA;Currently I&amp;rsquo;m an intern at Korea Institute of Science and Technology.&#xA;I&amp;rsquo;m sharing lessons about Startup School on medium&#xA;Previous Me in 10 minutes 2019 &amp;copy; | Theme AllinOne by Orianna </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://kayaen.github.io/archive/t%C3%BCketilenler-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kayaen.github.io/archive/t%C3%BCketilenler-1/</guid>
+      <description>&lt;!DOCTYPE html&gt; Tüketilenler 1 | Engin Engin Home Blog Experience About Engin categories Tüketilenler Tüketilenler 1 Mar 10, 2019 2 minutes read Merhaba,&#xA;Haftalık olarak internette neleri tükettiğimi paylaşmayı planladığım tüketilenler serimin ilk içeriğini yayınlıyorum. Paylaşmaya değer gördüğüm her konudan yaklaşık 10 içeriği kısa özet ile sunmayı hedefliyorum. Umarım kalıcı bir seriye dönüşür ve yararlı olur.&#xA;Dünyaya etki etmenin tek yolu hareket etmek&#xA;Kendini bir hareket şövanisti olarak tanıtan Daniel Wolpert&amp;rsquo;in beynimizin sadece uyumlu ve karmaşık hareketler üretmek amacıyla var oluğuna dair bizleri ikna etmek için yaptığı TED konuşması.</description>
     </item>
   </channel>
 </rss>
