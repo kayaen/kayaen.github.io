@@ -1,0 +1,12 @@
+# the generated site
+/public/
+
+# Hugo’s cache
+/resources/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Hugo lock file
+.hugo_build.lock
