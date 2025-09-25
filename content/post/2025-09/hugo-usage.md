@@ -19,14 +19,37 @@ Here are my notes for blogging with hugo.
   git submodule update --init --recursive
   {{< /highlight >}}
 
-- To create new blog post we can use this command.
+- To create new blog post we have two option. 
+  1. Single file post: we can use this command to create md file with a front matter header.
   {{< highlight html >}}
-  hugo new content/post/2025-08/hugo-usage.md
+  hugo new content/post/2025-08/my-post.md
   {{< /highlight >}}
-Any `.md` file placed under the `content/post` folder will appear as a blog post on your site. Make sure each file starts with a front matter header so Hugo can render it correctly.  
 
-- You can then build the website locally by running
+  2. Page bundle (folder + index.md): this helps to use relative paths for images. 
+  {{< highlight html >}}
+  hugo new content/post/2025-08/my-post/index.md
+  {{< /highlight >}}
+     ```
+     content/post/my-post/
+       ├── index.md
+       └── figure/
+           ├── fig1.png
+           └── fig2.png
+     ```
+
+  Any `.md` file placed under the `content/post` folder will appear as a blog post.   
+  Make sure each file starts with a front matter header so Hugo can render it correctly.  
+
+- Build the website locally by running
   {{< highlight html >}}
   hugo serve
   {{< /highlight >}}
 
+- To convert notebook to post with Quarto:
+  - Go to folder and run 
+    {{< highlight html >}}
+    cd content/post/my-post/
+    quarto render my-post.ipynb --to hugo-md
+    {{< /highlight >}}
+  - Rename created my-post.md to index.md
+  - If we add a front matter header to a Jupyter notebook in a Markdown cell, it will be automatically included in the exported .md file.

@@ -5,8 +5,12 @@
 /resources/
 
 # OS files
-.DS_Store
+*.DS_Store
 Thumbs.db
 
 # Hugo lock file
 .hugo_build.lock
+
+/.quarto/
+**/*.quarto_ipynb
+*.qmd
